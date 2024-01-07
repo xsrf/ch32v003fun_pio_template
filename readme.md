@@ -1,2 +1,2 @@
 # PlatformIO Template for ch32v003fun
-Contains Blink for ch32v003fun board
+Contains rv003usb HID example for ch32v003fun board
